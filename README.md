@@ -8,4 +8,7 @@ For given this to arrays:
 
 
 output is: 
+
+
+
 ![output](output.png)
