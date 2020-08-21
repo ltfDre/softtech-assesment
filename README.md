@@ -8,4 +8,4 @@ For given this to arrays:
 
 
 output is: 
-![output](outpu.png)
+![output](output.png)
